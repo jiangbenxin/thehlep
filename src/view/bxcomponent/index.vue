@@ -9,7 +9,7 @@
     下拉选择器
   <select :selectInfo="selectInfo"></select>
   </div>
-  单选组2件
+  单选组件
   <radio :radioInfo="radioInfo"></radio>
   富文本编辑器3
   <editor :edtorInfo="edtorInfo"></editor>
@@ -51,6 +51,7 @@ export default {
       edtorInfo: '富文本编辑器信息',
       radioInfo: 'info',
       checkboxInfo: 'info',
+      checkboxInfo2: 'info',
       selectInfo: 'info',
       cascaderInfo: 'info',
       dateTimePikerInfo: 'info',
