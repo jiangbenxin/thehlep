@@ -9,9 +9,9 @@
     下拉选择器
   <select :selectInfo="selectInfo"></select>
   </div>
-  单选组件
+  单选组2件
   <radio :radioInfo="radioInfo"></radio>
-  富文本编辑器
+  富文本编辑器3
   <editor :edtorInfo="edtorInfo"></editor>
   <checkbox :checkboxInfo="checkboxInfo"></checkbox>
   <tableCom :tableType="tableType"></tableCom>
